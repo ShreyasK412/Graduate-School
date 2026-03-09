@@ -1697,4 +1697,3 @@ Example: Petflix may have 1,000 concurrent streams being served, but only 16 run
 
 ---
 
-*Good luck on the exam!*
